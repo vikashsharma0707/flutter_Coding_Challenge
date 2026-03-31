@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false, // 👈 This removes the debug banner
-      title: "Counter App",
+      title: "Counter App Flutter",
       home: CounterPage(),
     );
   }
